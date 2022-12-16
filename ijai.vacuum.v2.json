@@ -173,8 +173,8 @@
      {
         "sa_id":3025,
         "model":"ijai.vacuum.v2",
-        "name":"Install Maxim Spazzy voicepack",
-        "keyName":"Install Maxim Spazzy voicepack",
+        "name":"Install Nexus custom v1 voicepack",
+        "keyName":"Install Nexus custom v1 voicepack",
         "type":0,
         "groupInfo":[
 
@@ -190,40 +190,6 @@
                     "piid":1,
                     "value":"ru_RU"
                  },
-                 {
-                    "piid":5,
-                    "value":"https://github.com/Q0/ijai.vacuum/raw/master/audio/maxim_spazzy_ru.zip"
-                 },
-                 {
-                    "piid":6,
-                    "value":"d539e6ff86b6b3f472d1a676e2aefeca"
-                 }
-              ],
-              "siid":14
-           }
-        },
-        "protocol_type":2
-     },
-     {
-      "sa_id":3026,
-      "model":"ijai.vacuum.v2",
-      "name":"Install Nexus custom voicepack",
-      "keyName":"Install Nexus custom voicepack",
-      "type":0,
-      "groupInfo":[
-
-      ],
-      "tr_id":201,
-      "payload":{
-         "did":"",
-         "command":"ijai.vacuum.v2.action",
-         "value":{
-            "aiid":1,
-            "in":[
-               {
-                  "piid":1,
-                  "value":"ru_RU"
-               },
                {
                   "piid":5,
                   "value":"https://github.com/liveisgood8/nexus-vaccum/raw/main/nexus_custom.zip"
@@ -232,11 +198,11 @@
                   "piid":6,
                   "value":"a0d16aea52243c14aaecbe5ec594900e"
                }
-            ],
-            "siid":14
-         }
-      },
-      "protocol_type":2
-   }
+              ],
+              "siid":14
+           }
+        },
+        "protocol_type":2
+     }
   ]
 }
