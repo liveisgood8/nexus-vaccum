@@ -173,8 +173,8 @@
      {
         "sa_id":3025,
         "model":"ijai.vacuum.v2",
-        "name":"Install Nexus custom v1 voicepack",
-        "keyName":"Install Nexus custom v1 voicepack",
+        "name":"Install Nexus custom v2 voicepack",
+        "keyName":"Install Nexus custom v2 voicepack",
         "type":0,
         "groupInfo":[
 
@@ -196,7 +196,7 @@
                },
                {
                   "piid":6,
-                  "value":"0933f439de65a8443637de608d4c203d"
+                  "value":"8150afc65ee3c54c590080d9c0fef673"
                }
               ],
               "siid":14
